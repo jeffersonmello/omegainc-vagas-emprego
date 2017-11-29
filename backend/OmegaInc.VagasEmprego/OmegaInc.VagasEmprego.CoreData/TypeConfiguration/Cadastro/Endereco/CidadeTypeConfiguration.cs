@@ -22,7 +22,7 @@ namespace OmegaInc.VagasEmprego.CoreData.TypeConfiguration.Cadastro.Endereco
                  .HasColumnName("descricao")
                  .HasMaxLength(450);
 
-            Property(p => p.Observcao)
+            Property(p => p.Observacao)
                 .IsRequired()
                 .HasColumnName("observacao")
                 .HasMaxLength(750);
@@ -40,7 +40,7 @@ namespace OmegaInc.VagasEmprego.CoreData.TypeConfiguration.Cadastro.Endereco
 
         protected override void ConfigureTableName()
         {
-            ToTable("cad_cidade");
+            ToTable("cad_cidades");
         }
     }
 }

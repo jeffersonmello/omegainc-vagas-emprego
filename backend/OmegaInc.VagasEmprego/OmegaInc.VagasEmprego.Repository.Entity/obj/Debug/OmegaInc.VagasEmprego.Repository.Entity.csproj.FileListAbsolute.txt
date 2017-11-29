@@ -7,6 +7,7 @@ D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Repository.Entity\bin\Debug\OmegaInc.Common.Repository.Entity.dll
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Repository.Entity\bin\Debug\OmegaInc.VagasEmprego.CoreData.dll
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Repository.Entity\bin\Debug\OmegaInc.VagasEmprego.Data.dll
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Repository.Entity\bin\Debug\OmegaInc.Common.Entity.dll
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Repository.Entity\bin\Debug\OmegaInc.VagasEmprego.CoreData.pdb
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Repository.Entity\bin\Debug\OmegaInc.VagasEmprego.CoreData.dll.config
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Repository.Entity\bin\Debug\OmegaInc.VagasEmprego.Data.pdb

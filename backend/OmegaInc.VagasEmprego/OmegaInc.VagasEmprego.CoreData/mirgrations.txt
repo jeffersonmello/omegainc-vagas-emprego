@@ -1,13 +1,13 @@
 ﻿*Cria uma migration*
-Add-Migration NomedaMigration -ProjectName OmegaInc.GRPSOS.ERP.Data.Entity -StartUpProjectName OmegaInc.GRPSOS.ERP.Data.Entity
+Add-Migration NomedaMigration -ProjectName OmegaInc.VagasEmprego.CoreData -StartUpProjectName OmegaInc.VagasEmprego.CoreData
 
 *Atualiza a base*
-Update-Database -ProjectName OmegaInc.GRPSOS.ERP.Data.Entity -StartUpProjectName OmegaInc.GRPSOS.ERP.Data.Entity -Verbose
+Update-Database -ProjectName OmegaInc.VagasEmprego.CoreData -StartUpProjectName OmegaInc.VagasEmprego.CoreData -Verbose
 
 *Cria arquivo sql*
-Update-Database -Script -SourceMigration:0 -StartUpProjectName OmegaInc.GRPSOS.ERP.Data.Entity -ProjectName OmegaInc.GRPSOS.ERP.Data.Entity
+Update-Database -Script -SourceMigration:0 -StartUpProjectName OmegaInc.VagasEmprego.CoreData -ProjectName OmegaInc.VagasEmprego.CoreData
 
 
 * Problemas com The model backing the 'MyDbContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
 * rodar o comando: 
-Update-Database -ProjectName OmegaInc.GRPSOS.ERP.Data.Entity -Verbose
+Update-Database -ProjectName OmegaInc.VagasEmprego.CoreData -Verbose

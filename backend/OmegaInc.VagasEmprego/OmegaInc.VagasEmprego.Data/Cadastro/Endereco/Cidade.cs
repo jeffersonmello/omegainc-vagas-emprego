@@ -13,7 +13,7 @@ namespace OmegaInc.VagasEmprego.Data.Cadastro.Endereco
 
         public string Descricao { get; set; }
 
-        public string Observcao { get; set; }
+        public string Observacao { get; set; }
         #endregion
     }
 }

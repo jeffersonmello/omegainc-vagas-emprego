@@ -57,11 +57,34 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\DataContext.cs" />
+    <Compile Include="Migrations\201711291222461_NomedaMigration.cs" />
+    <Compile Include="Migrations\201711291222461_NomedaMigration.Designer.cs">
+      <DependentUpon>201711291222461_NomedaMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201711291257015_test1.cs" />
+    <Compile Include="Migrations\201711291257015_test1.Designer.cs">
+      <DependentUpon>201711291257015_test1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201711291258178_test2.cs" />
+    <Compile Include="Migrations\201711291258178_test2.Designer.cs">
+      <DependentUpon>201711291258178_test2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201711291258531_finalCidade.cs" />
+    <Compile Include="Migrations\201711291258531_finalCidade.Designer.cs">
+      <DependentUpon>201711291258531_finalCidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201711291300528_finalCidade1.cs" />
+    <Compile Include="Migrations\201711291300528_finalCidade1.Designer.cs">
+      <DependentUpon>201711291300528_finalCidade1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TypeConfiguration\Cadastro\Endereco\CidadeTypeConfiguration.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -76,12 +99,30 @@
     <Content Include="docs\MySqlParameter.xml" />
     <Content Include="docs\MySqlParameterCollection.xml" />
     <Content Include="docs\MySqlTransaction.xml" />
+    <Content Include="mirgrations.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OmegaInc.VagasEmprego.Data\OmegaInc.VagasEmprego.Data.csproj">
       <Project>{68d4d395-76c5-414a-b43c-5dd2f398f167}</Project>
       <Name>OmegaInc.VagasEmprego.Data</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201711291222461_NomedaMigration.resx">
+      <DependentUpon>201711291222461_NomedaMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201711291257015_test1.resx">
+      <DependentUpon>201711291257015_test1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201711291258178_test2.resx">
+      <DependentUpon>201711291258178_test2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201711291258531_finalCidade.resx">
+      <DependentUpon>201711291258531_finalCidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201711291300528_finalCidade1.resx">
+      <DependentUpon>201711291300528_finalCidade1.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
