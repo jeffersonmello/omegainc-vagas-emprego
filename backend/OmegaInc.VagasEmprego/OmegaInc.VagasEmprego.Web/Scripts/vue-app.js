@@ -12,7 +12,8 @@
     data: {
         ApplicationConfig: {
             version: "1.0.0",
-            title: "Vagas Emprego"
+            title: "Vagas Emprego",
+            currentPageTitle: ""
         },
 
     }

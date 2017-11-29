@@ -13,12 +13,12 @@ D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\bin\Debug\MySql.Data.xml
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\bin\Debug\MySql.Data.Entity.EF6.xml
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.csprojResolveAssemblyReference.cache
-D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.csproj.CoreCompileInputs.cache
-D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.dll
-D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.pdb
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.Migrations.NomedaMigration.resources
-D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.csproj.GenerateResource.Cache
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.Migrations.test1.resources
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.Migrations.test2.resources
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.Migrations.finalCidade.resources
 D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.Migrations.finalCidade1.resources
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.csproj.GenerateResource.Cache
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.csproj.CoreCompileInputs.cache
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.dll
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.CoreData\obj\Debug\OmegaInc.VagasEmprego.CoreData.pdb

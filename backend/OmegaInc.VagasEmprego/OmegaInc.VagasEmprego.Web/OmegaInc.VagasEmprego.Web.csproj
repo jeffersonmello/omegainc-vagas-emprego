@@ -375,6 +375,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Scripts\bootstrap-loading.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
@@ -403,6 +404,7 @@
     <Content Include="assets\themes\material\fonts\roboto\Roboto-Regular-webfont.ttf" />
     <Content Include="assets\themes\material\fonts\roboto\Roboto-Regular-webfont.woff" />
     <Content Include="assets\themes\material\fonts\roboto\Roboto-Regular-webfontd41d.eot" />
+    <Content Include="Components\loadingBar.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <None Include="Scripts\jquery-1.11.1-vsdoc.js" />
     <Content Include="Scripts\erp.bootgrid.js" />
@@ -421,6 +423,7 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\sendform.js" />
     <Content Include="Scripts\store.js" />
     <Content Include="Scripts\vue-app.js" />
     <Content Include="Scripts\vue.min.js" />
@@ -441,7 +444,6 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Cidade\Create.cshtml" />
     <Content Include="Views\Cidade\Delete.cshtml" />
-    <Content Include="Views\Cidade\Details.cshtml" />
     <Content Include="Views\Cidade\Edit.cshtml" />
     <Content Include="Views\Cidade\Index.cshtml" />
   </ItemGroup>

@@ -1,0 +1,5 @@
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Data\bin\Release\OmegaInc.VagasEmprego.Data.dll
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Data\bin\Release\OmegaInc.VagasEmprego.Data.pdb
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Data\obj\Release\OmegaInc.VagasEmprego.Data.csproj.CoreCompileInputs.cache
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Data\obj\Release\OmegaInc.VagasEmprego.Data.dll
+D:\Dropbox\Programacao\Web\omegainc-vagas-emprego\backend\OmegaInc.VagasEmprego\OmegaInc.VagasEmprego.Data\obj\Release\OmegaInc.VagasEmprego.Data.pdb

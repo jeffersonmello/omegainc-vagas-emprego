@@ -33,14 +33,16 @@ namespace OmegaInc.VagasEmprego.Web
                 .Include("~/Scripts/store.js")
                 .Include("~/Scripts/vue-app.js"));
 
+            bundles.Add(new ScriptBundle("~/components")
+                .Include("~/components/loadingBar.js"));
+
             bundles.Add(new ScriptBundle("~/bundles/material")
                 .Include("~/assets/themes/material/vendors/bower_components/jquery/dist/jquery.min.js")
                 .Include("~/assets/themes/material/vendors/bower_components/tether/dist/js/tether.min.js")
                 .Include("~/assets/themes/material/vendors/bower_components/bootstrap/dist/js/bootstrap.min.js")
                 .Include("~/Scripts/respond.js")
                 .Include("~/assets/themes/material/vendors/bower_components/Waves/dist/waves.min.js")
-                .Include("~/assets/themes/material/vendors/bower_components/jquery.scrollbar/jquery.scrollbar.min.js")
-                .Include("~/assets/themes/material/vendors/bower_components/jquery-scrollLock/jquery-scrollLock.min.js")
+                .Include("~/assets/themes/material/vendors/bower_components/jquery.scrollbar/jquery.scrollbar.min.js")                
                 .Include("~/assets/themes/material/vendors/bower_components/flot/jquery.flot.js")
                 .Include("~/assets/themes/material/vendors/bower_components/flot/jquery.flot.resize.js")
                 .Include("~/assets/themes/material/vendors/bower_components/flot.curvedlines/curvedLines.js")
@@ -51,8 +53,11 @@ namespace OmegaInc.VagasEmprego.Web
                 .Include("~/assets/themes/material/vendors/bower_components/moment/min/moment.min.js")
                 .Include("~/assets/themes/material/vendors/bower_components/fullcalendar/dist/fullcalendar.min.js")
                 .Include("~/assets/themes/material/vendors/jquery.sparkline/jquery.sparkline.min.js")
+                .Include("~/assets/themes/material/vendors/bower_components/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js")
+                .Include("~/assets/themes/material/vendors/bower_components/sweetalert2/dist/sweetalert2.min.js")
                 .Include("~/assets/themes/material/js/app.min.js")
                 .Include("~/assets/themes/material/js/index.js")
+                .Include("~/Scripts/bootstrap-loading.js")
                 );
 
             bundles.Add(new StyleBundle("~/Content/material")

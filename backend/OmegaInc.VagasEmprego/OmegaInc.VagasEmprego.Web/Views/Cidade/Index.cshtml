@@ -38,17 +38,19 @@
 </section>
 
 
-        
 
-        <!-- Modal Large -->
-        <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-hidden="true">
 
-        </div>
+<!-- Modal Large -->
+<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-hidden="true">
 
-        @section Scripts {
-            <script src="~/Scripts/erp.bootgrid.js"></script>
-            <script type="text/javascript">
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/erp.bootgrid.js"></script>
+    <script type="text/javascript">
         var rowId = 0;
+
+        app.ApplicationConfig.currentPageTitle = (" - " +  "@ViewBag.Title");
 
 
         var pageready = function () {
@@ -143,6 +145,6 @@
         });
 
 
-            </script>
-            @Scripts.Render("~/bundles/jqueryval")
-        }
+    </script>
+    @Scripts.Render("~/bundles/jqueryval")
+}
